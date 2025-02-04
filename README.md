@@ -1,4 +1,4 @@
-### **🕶Face Detection & Blur Project: Anonymizing Faces with OpenCV**  
+### **Face Detection & Blur Project: Anonymizing Faces with OpenCV**  
 
 
 
@@ -81,7 +81,7 @@ python face_blur.py --video videos/sample_video.mp4
 ### **🔹 Before Detection**
 #### **Original Image**
 | Input Image |
-||
+|-|
 | ![Original Image](images/musk.jpg) |
 
 
